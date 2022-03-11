@@ -4,9 +4,17 @@
         <title>MSBSOUND ─ Behind Story</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 08:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 09:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월의 영화 같았던 순간, CHEEZE 단독 공연[Mood Film] 비하인드!]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33409003&amp;memberNo=838758&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33409003&amp;memberNo=838758&amp;navigationType=push</guid>
+            <pubDate>Fri, 11 Mar 2022 09:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMDdfMjg0/MDAxNjQ2NjM2NTUxMTQ5.k0BethaTpFCNnu49CnV4c0uvJQ1akGbPbne1Bdi3jjwg.bpTL2Jl5ECCG5MkKChF_gQ2TRG4WHh6FVm5i2PlONvAg.JPEG/I0zHS6pQ7pnzAUEctN5Z59Ppejqw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10CM 단독공연 'Please Don't Stop Your Singing' 배경화면 배포]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33099607&amp;memberNo=838758&amp;navigationType=push</link>
@@ -164,15 +172,6 @@
             <pubDate>Sat, 19 Feb 2022 03:27:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMzFfMTYw/MDAxNTg1NjY0OTc1MjI0.O_sKS9TYWcRet6F8Ukgu7t2jq9jtjGqdR2DCZQCZVk4g.LOPTOJL_dit0-0bGAMvrCp65sIRqQ5gsicLzYaoHk7gg.JPEG/IIBkrmeDFmOxitnivWcw3Ij4etbQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김수영이 들려주는
-<이 빵에 이 음악>]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27805911&amp;memberNo=838758&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27805911&amp;memberNo=838758&amp;navigationType=push</guid>
-            <pubDate>Sat, 19 Feb 2022 03:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMDVfMTMx/MDAxNTgzNDE4NjU1NDY0.GFdHmJspBwVp4H9478K_MvYg-vfp9YV8gF32kIqeWN4g.FmkOX5wRkPN4zZHrEx948upLSzHbBYt9n3KltMiX1Hgg.GIF/IpJ4tOjnCXyswU1tex9I-QFUoQQs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
