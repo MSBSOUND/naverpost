@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 매직스트로베리사운드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,14 +39,6 @@
             <pubDate>Sat, 19 Feb 2022 03:27:42 GMT</pubDate>
             <content:encoded><![CDATA[여러분의 변함없는 관심과 사랑으로 들뜬 한 해를 보냈던 10CM였습니다. 주신 사랑에 보답하는 지난 한 해의 마무리는 2년 만에 개최된 10CM의 단독 공연 'Please Don't Stop Your Singing'이었습니다. 지난 텐텐절···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTBfMTE5/MDAxNjQxODAyOTM2MDg5.ca8qJRosYbUjOxizMGJkaEoxc_l7Jl1fQfTWlSKuvSkg.o9rrkXRqUPOCDAErjSGRZnLvSG38EXhTN0sZxhMPDz0g.JPEG/IkfeRFYxzgsCM_YcH0i1lSSBy6u4.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 매직스트로베리사운드 A&R/디자인/영상 파트 채용]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33086740&amp;memberNo=838758</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33086740&amp;memberNo=838758</guid>
-            <pubDate>Sat, 19 Feb 2022 03:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[매직스트로베리사운드와 함께할 매니지먼트팀 A&amp;R 파트, 디자인 파트, 영상 파트 사원을 모집합니다.]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDdfMjA2/MDAxNjQxNTU5Mjc1NDc4.jlbDkiRXb3iNkCIwES0U1okm7E7Vy-QXAw1-eRtaAuog.k3Y-_oGw0TuuwK7hW_4kB11B9ZLL5nYAYj_ivTBh6xsg.JPEG/IO-RvN7xTKtSKjPcu7YDOJSohxQM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진짜로, 정말로, 참말로! [수고했어, 올해도] 2021 옥상달빛 연말 단독 공연 비하인드]]></title>
@@ -171,6 +163,15 @@ CHEEZE 싱글 [LOSER]]]></title>
             <pubDate>Sat, 19 Feb 2022 03:27:42 GMT</pubDate>
             <content:encoded><![CDATA[기분 좋은 햇살과 살랑이는 바람이 느껴지는 포근한 계절 봄, 봄이 오면 으레 생각나는 아티스트로 자리 잡은 CHEEZE가 싱글 [LOSER]로 찾아왔습니다. 통통 튀는 웰메이드 댄스곡으로 돌아온 치즈의 인터뷰와 컨셉 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTVfMjA4/MDAxNjE4NDg0ODMxNzEz.MaoK2uwKfh436nxXLXI6_ilHYg3Yr3iqUj8N4uNw4Ocg.e2gOY6nU659EStVftA26vJq6fR82dKffFIrTC9eZ9U4g.PNG/IgwaiRIonvPHP2K6TWtOlusav8Ek.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달콤씁쓸한 이루리의 사랑 노래,
+[I Feel Your Love]]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31337419&amp;memberNo=838758</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31337419&amp;memberNo=838758</guid>
+            <pubDate>Fri, 22 Apr 2022 08:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[베이스를 연주하는 싱어송라이터 이루리가 지난 2021년 9월, EP [Let Me Dive Into This Moment] 이후 약 7개월 만에 신곡 ‘I Feel Your Love’로 돌아왔습니다! 지난 EP는 우리가 살아가면서 한 번쯤 경···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MjNfODMg/MDAxNjE5MTc3MDAzODU2.N6FL30WK1GNnrKKvX-9OX1FtlPbFhnQthaXRk1jS2vYg.Zvd4oxJZxACoL0E6r56Jgi_zmD3Ga2sxqC6HY5rRT5kg.JPEG/IgYYH_SR0i1pGvdv2HNA4i-vzd-E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
