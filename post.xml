@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 매직스트로베리사운드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10CM '그라데이션' 핸드폰 배경화면]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34121693&amp;memberNo=838758</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=34121693&amp;memberNo=838758</guid>
+            <pubDate>Tue, 12 Jul 2022 15:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요 여러부운!!!! '그라데이션'과 함께 물들고 계시나요? 평소보다 청량한 무드로 진행된 이번 프로젝트, 10CM의 다양한 사진과 디자인을 여러분께 배경화면으로 선물합니다! 앞으로도 이 여름 '그라데이션'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMjY4/MDAxNjU3NjM2NzQ1OTYy.4QjXx_oeEu-ibnVFYSwV7MVJDo1ynt2umY2UOGxLTaAg.nPBO5hwoQrqL1fEsrZr7g-99yYeCGykvxkzLQIsmNm4g.PNG/IdjVtqKJzBw8Y-a6a55rLUppX_lw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10CM '그라데이션' 굿노트 다이어리 템플릿]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=34121068&amp;memberNo=838758</link>
@@ -162,15 +170,6 @@
             <pubDate>Sat, 19 Feb 2022 03:27:42 GMT</pubDate>
             <content:encoded><![CDATA[13일 발매된 10CM의 신곡 '서울의 잠 못 이루는 밤 (Feat. 이수현)' 모두 잘 듣고 계신가요? 서울 도심 곳곳에서 촬영이 진행되었던 이번 프로젝트의 다양한 사진들을 모아 핸드폰 배경화면으로 제작해보았···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MThfMTg3/MDAxNjIxMzMxMjU0NTEw.AS0ygD_Am0Z2JA-b1LIhDbmZuIL8rgmDPAJLPuHUvacg.pUqEPbnK9VZ2iR68QgjLRVO2gGw-dsQA0Ck99uwlSBwg.JPEG/IOJQC-E85xoiXhg4fwqynABSLwRw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페셜한 루저들을 위하여!
-CHEEZE 싱글 [LOSER]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=31389846&amp;memberNo=838758</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=31389846&amp;memberNo=838758</guid>
-            <pubDate>Sat, 19 Feb 2022 03:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[기분 좋은 햇살과 살랑이는 바람이 느껴지는 포근한 계절 봄, 봄이 오면 으레 생각나는 아티스트로 자리 잡은 CHEEZE가 싱글 [LOSER]로 찾아왔습니다. 통통 튀는 웰메이드 댄스곡으로 돌아온 치즈의 인터뷰와 컨셉 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTVfMjA4/MDAxNjE4NDg0ODMxNzEz.MaoK2uwKfh436nxXLXI6_ilHYg3Yr3iqUj8N4uNw4Ocg.e2gOY6nU659EStVftA26vJq6fR82dKffFIrTC9eZ9U4g.PNG/IgwaiRIonvPHP2K6TWtOlusav8Ek.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
