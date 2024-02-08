@@ -4,9 +4,17 @@
         <title>MSBSOUND ─ Behind Story</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 06:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 07:09:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[24' Winter Concert '9+1' PHOTOS]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37312950&amp;memberNo=838758&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37312950&amp;memberNo=838758&amp;navigationType=push</guid>
+            <pubDate>Thu, 08 Feb 2024 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDJfMSAg/MDAxNzA2ODc1MjkwNzgy.Qd9Ly_cwIBLhKJkQkPZ_xk9eCJ5R4_8gwEpJxtUigYsg.a0sIMeTh6a2I1l2zaZykle7BYzAW_P7eZvetYksKF6Eg.JPEG/IKVZ-lZv_eX_9s03WOrYwKUW1hJ0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 선우정아 단독 콘서트
 [Festival SWJA : 터트려] 공식사진.zip]]></title>
@@ -163,15 +171,6 @@
             <pubDate>Sun, 13 Nov 2022 06:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/trl9ShQAOKw/0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아는 가발매니아?
-각양각색 독특한 헤어스타일 변천사!]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28443512&amp;memberNo=838758&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28443512&amp;memberNo=838758&amp;navigationType=push</guid>
-            <pubDate>Sun, 13 Nov 2022 06:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MDJfMTMg/MDAxNTkxMDg4NjE3OTYy.tsPEYdgZmVgtU73bWTUYzSGdxhVwmR-c7mqS5gnLQPMg.RoivlXcVZD4HHFJnri1HBbFsau6PwFSuGqqQ-O42gUIg.JPEG/I_uPuBvJFMwHXWMmQJGsMGl_I6JI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
